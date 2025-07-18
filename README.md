@@ -23,11 +23,9 @@ Tools used: **Microsoft Excel** and **Power BI**
 ###  Excel Data Cleaning
 
 - Cleaned and structured raw data
-- Formatted dates, text, and numbers
-- Handled missing values and inconsistencies
-- Created pivot tables for initial insights
-
- **Excel File**: [`Cleaned Road_Transportation 2020-2024.xlsx`](Cleaned%20Road_Transportation%202020-2024.xlsx)
+- Correctly formatted columns in the data such as dates, text, and numbers
+- Handled inconsistencies and missing values
+- Created pivot tables for initial glance into the analysis.
 
 ---
 
@@ -41,7 +39,7 @@ Built a dynamic dashboard to visually present:
 - Speed violation, fatigue, and mechanical issues breakdown
 - KPI cards and filters for interactive analysis
 
- **Power BI File**: [`GROUP3_CAPSTONE_PROJECT.pbix`](GROUP3_CAPSTONE_PROJECT.pbix)
+ **Power BI File**: [`)
 
 
 
